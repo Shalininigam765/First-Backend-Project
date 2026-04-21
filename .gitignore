@@ -1,1 +1,5 @@
 package.json
+.env
+notes.txt
+node_modules/
+public/temp/
